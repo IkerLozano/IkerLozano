@@ -23,12 +23,12 @@
 </div>
 <br>
 
-<!--- <details align="center">
+<details align="center">
   <summary>breba</summary>
   <br>
   <img <img src="(https://static.wikia.nocookie.net/doblaje/images/c/c8/Maxtben-10-.png/revision/latest?cb=20180721151426&path-prefix=es)" width="200" height="200"/>
-</details>*/
--->
+</details>
+
 
 <hr>
 <div align="center">
