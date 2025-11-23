@@ -35,7 +35,7 @@
 <!-- Loros -->
 <hr>
 <div align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+  <img src="bird-dance.gif" width="30" height="30"/>
   <img src="matrix-parrot.gif" width="30" height="30"/
   <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
   <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
