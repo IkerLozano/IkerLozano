@@ -1,68 +1,89 @@
 <script setup>
-    const nombre = "Vue 3"
-     const arrayFrutas = ["🍎", "🍌", "🍉", "🍓", "🍒"];
-     const descragaFrutas = [
-        {
-            name: "Manzana",
-            price: "1.00€",
-            descripcion: "Manzana del himalaia",
-            stock: 0
-        },
-         {
-            name: "Pera",
-            price: "2.50€",
-            descripcion: "Pera de Pascual",
-            stock: 67
-        },
-         {
-            name: "Naranja",
-            price: "3.00€",
-            descripcion: "Naranja de DAM1",
-            stock: 8
-        }
-     ]
+import { computed, ref } from 'vue'
 
-     const fruta = 
-        {
-            name: "Fresa",
-            price: "4.00€",
-            descripcion: "Fresa"
-        }
-    
+//Metodos
+const manejarClik = () => {
+    console.log("Luis")
+}
+
+const manejarClikConParemtro = (mensaje) => {
+    console.log(mensaje)
+}
+
+
+const contador = ref(0)
+const incrementar = () => {
+    contador.value++
+}
+
+const restar = () => {
+    contador.value--
+}
+
+const resetear = () => {
+    contador.value = 0
+}
+
+//Propiedades
+const claseContador = computed(() => {
+    if (contador.value === 0) {
+        return 'zero'
+    }
+    return contador.value > 0 ? 'verde' : 'rojo'
+})
+
+
+const arrayFavoritos = ref([])
+const addFavorito = () => {
+    arrayFavoritos.value.push(contador.value)
+}
 </script>
 
+
+
 <template>
-    <h1>Hola {{ nombre }}</h1>
-    <hr>
-    <h3>Directiva v-for</h3>
+    <div class="container py-4">
+        <div class="text-center">
+            <!--EVENTOS-->
 
-    <p>Recorremos un array</p>
-    <p>{{ arrayFrutas }}</p>
-    <ul class="sinPunto">
-        <li v-for="(fruta, index) in arrayFrutas" :key="index">
-            {{ index }} - {{ fruta}}
-        </li>
+            <button v-on:click="manejarClik">Clik aqui</button>
+            <button v-on:click="manejarClikConParemtro('Mensaje como parametro')">Clik aqui 2</button>
+            <!--poniendo nombreFuncion() le pasamos un mensaje por parametro-->
+            <button @click.middle="manejarClik">Danii!!!</button> <!--en vez de v-on:click se puede poner @clik-->
 
-    </ul>
-    
-    <hr>
-    <p>Recorremos un array de Objetos</p>
-    <ul>
-        <li v-for="(fruta) in descragaFrutas" :Key="fruta.name"> <!--la key es para poner como clave primaria el nombre-->
-            {{ fruta.name }} - {{ fruta.descripcion }} -- {{ fruta.price }}
-        </li>
-    </ul>
-    <hr>
-    <p>Recorremos un objeto</p>
-    <ul>
-        <li v-for ="(valor, propiedad, index) in fruta">
-           {{ propiedad }} - {{ valor }} - {{ index }}
-        </li>
-    </ul>
+            <hr>
+
+            <div class="">
+                <h1>Contador</h1>
+                <h1 v-bind:class="claseContador">{{ contador }}</h1>
+                <button @click="incrementar" class="btn btn-success">Aumentar</button>
+                <button @click="restar" class="btn btn-danger">Restar</button>
+                <button @click="resetear" class="btn btn-primary">Resetear</button>
+                <button @click="addFavorito" class="btn btn-info">Favorito</button>
+
+                <h3>Favoritos:</h3>
+                <ul>
+                    <li v-for="f in arrayFavoritos">
+                        {{ f }}
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
 </template>
 
 <style>
-    .sinPunto{
-        list-style-type: none;
-    }
+.rojo {
+    color: red;
+}
+
+.verde {
+    color: green;
+}
+
+.zero {
+    color: aqua;
+}
 </style>
