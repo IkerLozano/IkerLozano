@@ -41,7 +41,17 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
   <img src="spainparrot.gif" width="30" height="30"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=88C0D0&center=true&vCenter=true&width=700&lines=BUILDING+THINGS+I+FIND+INTERESTING.;CODE+%C3%97+DESIGN+%C3%97+CURIOSITY.;LEARN.+BUILD.+BREAK.+REPEAT."/>
+<!-- 
+coasas
+-->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake.svg">
+  <img alt="Viplov's Contribution Snake" src="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake.svg">
+</picture>
+
   
 </div>
 
