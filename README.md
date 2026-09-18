@@ -25,14 +25,6 @@
 </div>
 <br>
 
-
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkerLozano&layout=compact&theme=tokyonight">
-</div>
-<br>
-
-
 <!-- Foto pascual -->
 <details align="center">
   <summary>BREBA</summary>
