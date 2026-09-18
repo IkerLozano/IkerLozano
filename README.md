@@ -41,9 +41,7 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
   <img src="spainparrot.gif" width="30" height="30"/>
 
-<br>
-<img height="120" alt="Pascual " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<!--<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />-->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=88C0D0&center=true&vCenter=true&width=700&lines=BUILDING+THINGS+I+FIND+INTERESTING.;CODE+%C3%97+DESIGN+%C3%97+CURIOSITY.;LEARN.+BUILD.+BREAK.+REPEAT."/>
   
 </div>
 
