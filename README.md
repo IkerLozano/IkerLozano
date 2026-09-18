@@ -52,7 +52,7 @@ coasas
   <img alt="Viplov's Contribution Snake" src="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://komarev.com/ghpvc/?username=viplovk&style=flat-square&color=88C0D0" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=vIkerLozano=flat-square&color=88C0D0" alt="Profile Views"/>
 
   
 </div>
