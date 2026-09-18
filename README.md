@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td>
         <a href="https://github.com">
