@@ -53,7 +53,7 @@ coasas
 </picture>
 
 <br/>
-<img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
+<a href="https://github.com/viplovk/viplovk/issues/1"><img src="https://img.shields.io/badge/✦%20SIGN%20THE%20GUESTBOOK-88C0D0?style=for-the-badge&labelColor=0D1117"/></a>
 
   
 </div>
