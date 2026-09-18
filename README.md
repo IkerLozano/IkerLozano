@@ -41,10 +41,7 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
   <img src="spainparrot.gif" width="30" height="30"/>
 
-<!-- 
-coasas
--->
-
+<!-- Serpiente -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake-dark.svg">
@@ -52,9 +49,6 @@ coasas
   <img alt="Viplov's Contribution Snake" src="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
-<a href="https://github.com/viplovk/viplovk/issues/1"><img src="https://img.shields.io/badge/✦%20SIGN%20THE%20GUESTBOOK-88C0D0?style=for-the-badge&labelColor=0D1117"/></a>
 
-  
 </div>
 
