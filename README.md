@@ -22,14 +22,23 @@
 <!-- Estadísticas -->
 <br>
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github" alt="GitHub Stats" />
-  </a>
-  <a href="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent">
-    <img src="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
-  </a>
-</p>
+<div align="center">
+  <table style="border: none; border-collapse: collapse; border-spacing: 20px 0; background: transparent;">
+    <tr style="border: none; background: transparent;">
+      <td style="border: none; padding-right: 15px; background: transparent;">
+        <a href="https://github.com">
+          <img src="https://vercel.app" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td style="border: none; padding-left: 15px; background: transparent;">
+        <a href="https://github.com">
+          <img src="https://vercel.app" alt="GitHub Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
