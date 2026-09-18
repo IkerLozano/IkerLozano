@@ -53,7 +53,7 @@ coasas
 </picture>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=IkerLozano=flat-square&color=88C0D0" alt="Profile Views"/>
+<img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
 
   
 </div>
