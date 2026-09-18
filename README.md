@@ -20,15 +20,12 @@
 </div>
 
 <!-- Estadísticas -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github)
 
-<!--
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkerLozano&theme=blue-green">
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github)
 </div>
-<br>
--->
 
 
 <!-- Foto pascual -->
