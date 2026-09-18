@@ -20,16 +20,25 @@
 </div>
 
 <!-- Estadísticas -->
-
 <br>
 
 <div align="center">
-  
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github)
-  
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent)
-  
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent">
+          <img src="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 <!-- Foto pascual -->
