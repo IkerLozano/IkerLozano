@@ -19,11 +19,17 @@
   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 </div>
 
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github)
+
+<!--
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkerLozano&theme=blue-green">
 </div>
 <br>
+-->
+
 
 <!-- Foto pascual -->
 <details align="center">
