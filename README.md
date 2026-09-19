@@ -41,12 +41,13 @@
 
 
 
-<!-- Foto pascual -->
+<!-- Foto pascual
 <details align="center">
   <summary>BREBA</summary>
   <br>
   <img <img src="Maxtben-10-.webp" width="200" height="200"/>
 </details>
+ -->
 
 <!-- Loros -->
 <hr>
@@ -57,41 +58,13 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
   <img src="spainparrot.gif" width="30" height="30"/>
 
-<!-- Serpiente viplovk
+<!-- Serpiente-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake.svg">
   <img alt="Viplov's Contribution Snake" src="https://raw.githubusercontent.com/viplovk/viplovk/viplovk/github-contribution-grid-snake.svg">
 </picture>
--->
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IkerLozano/IkerLozano/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IkerLozano/IkerLozano/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IkerLozano/IkerLozano/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
-
-
-
-<div align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/IkerLozano/IkerLozano/output/github-contribution-grid-snake-dark.svg">
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/IkerLozano/IkerLozano/output/github-contribution-grid-snake.svg">
-    <img 
-      alt="GitHub contribution grid snake animation" 
-      src="https://raw.githubusercontent.com/IkerLozano/IkerLozano/output/github-contribution-grid-snake.svg"
-      width="100%">
-  </picture>
-</div>
 
 
 </div>
