@@ -57,13 +57,14 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
   <img src="spainparrot.gif" width="30" height="30"/>
 
-<!-- Serpiente viplovk-->
+<!-- Serpiente viplovk
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake.svg">
   <img alt="Viplov's Contribution Snake" src="https://raw.githubusercontent.com/viplovk/viplovk/viplovk/github-contribution-grid-snake.svg">
 </picture>
+-->
 
 
 <div align="center">
