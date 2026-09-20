@@ -47,7 +47,7 @@
 -->
 <p align="center">
   <br />
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent" alt="Top Langs" /></a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent" alt="Top Langs" align="middle" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent"><img src="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" height="200" align="middle" /></a>
   <br />
