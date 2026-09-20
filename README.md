@@ -45,20 +45,24 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent)
 
 -->
-<table>
-  <tr>
-    <td valign="top" width="40%">
-      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent" alt="Top Langs" />
-      </a>
-    </td>
-    <td valign="top" width="60%">
-      <a href="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent">
-        <img src="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<br />
+
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent" alt="Top Langs" height="200" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent">
+  <img src="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" height="200" />
+</a>
+
+<br />
+<br />
+
+</div>
 
 
 <!-- Foto pascual
