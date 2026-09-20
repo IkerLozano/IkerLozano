@@ -51,12 +51,13 @@
 
 <!-- Serpiente-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viplovk/viplovk/output/github-contribution-grid-snake.svg">
-  <img alt="Viplov's Contribution Snake" src="https://raw.githubusercontent.com/viplovk/viplovk/viplovk/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IkerLozano/IkerLozano/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IkerLozano/IkerLozano/output/github-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/IkerLozano/IkerLozano/output/github-snake.svg">
+  </picture>
+</p>
 
 </div>
 
