@@ -19,7 +19,7 @@
   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 </div>
 
-<!-- Estadísticas -->
+<!-- Estadísticas 
 <br>
 
 <div align="center">
@@ -39,10 +39,26 @@
   </table>
 </div>
 
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent)
 
+-->
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent" alt="Top Langs" />
+      </a>
+    </td>
+    <td valign="top" width="60%">
+      <a href="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent">
+        <img src="https://github-stats-extended.vercel.app/api?username=IkerLozano&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <!-- Foto pascual
