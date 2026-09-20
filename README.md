@@ -27,8 +27,7 @@
     <tr>
       <td>
         <a href="https://github.com">
-          <!--<img src="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github" alt="GitHub Stats" />-->
-        <img  https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?  username=IkerLozano&langs_count=5&theme=transparent />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=6&theme=dark_github" alt="GitHub Stats" />
         </a>
       </td>
       <td>
@@ -40,6 +39,7 @@
   </table>
 </div>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent)
 
 
 
