@@ -39,6 +39,10 @@
   </table>
 </div>
 
+<div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=IkerLozano&langs_count=5&theme=transparent)  
+</div>
+
 
 
 <!-- Foto pascual
